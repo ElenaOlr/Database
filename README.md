@@ -1,2 +1,2 @@
 # Database
-Managerierea unei companii de cosmetice
+ FMI 2021, Managerierea unei companii de cosmetice
